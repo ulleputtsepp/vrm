@@ -1,4 +1,4 @@
-BCS koolitus - Booking App
+## BCS koolitus - Booking App
 
 Purpose - practice of developing software in web; use of PHP language and framework Silex; use of version control system (Git, Github).
 
